@@ -72,6 +72,6 @@ Me chamo Luiz Miguel Nunes Pimenta, tenho 19 anos e sou de Goias. Atualmente, es
 
 <div>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Miguel-Pimenta)](https://github.com/Luiz-Miguel-Pimenta/github-readme-stats)
   
 </div>
