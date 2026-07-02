@@ -86,9 +86,9 @@ Gosto de construir projetos reais para consolidar o que aprendo: já desenvolvi 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Luiz-Miguel-Pimenta&theme=tokyonight&locale=pt_BR&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luiz-Miguel-Pimenta&theme=tokyonight&no-frame=true&row=1&column=5" />
-</p>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Miguel-Pimenta)](https://github.com/Luiz-Miguel-Pimenta/github-readme-stats)
+</div>
 
 ---
  
@@ -97,6 +97,11 @@ Gosto de construir projetos reais para consolidar o que aprendo: já desenvolvi 
 <p>
   Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo sobre tecnologia, me encontra aqui:
 </p>
-- 💼 LinkedIn: [luiz-miguel-045825362](https://www.linkedin.com/in/luiz-miguel-045825362)
-- 🐙 GitHub: [@Luiz-Miguel-Pimenta](https://github.com/Luiz-Miguel-Pimenta)
----
+<ul>
+ <li>
+   💼LinkedIn: [luiz-miguel-045825362](www.linkedin.com/in/luiz-miguel-nunes-pimenta-045825362)
+ </li>
+ <li>
+   🐙 GitHub: [@Luiz-Miguel-Pimenta](https://github.com/Luiz-Miguel-Pimenta)
+ </li>
+</ul>
